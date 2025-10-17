@@ -108,3 +108,5 @@ wrapt==1.17.3
 yarl==1.22.0
 zc.lockfile==4.0
 dvc[s3]
+mlflow
+xgboost
