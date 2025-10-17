@@ -2,5 +2,3 @@
     remote = myremote
 ['remote "myremote"']
     url = s3://pcos-predict-exp-s3/DATA/processed-data/
-['remote "myremote-processed-data"']
-    url = s3://pcos-predict-exp-s3/DATA/processed-data/
